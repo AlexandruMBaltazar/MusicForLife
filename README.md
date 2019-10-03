@@ -1,5 +1,5 @@
 # MusicForLife
-An app designed to promote an event
+An android app designed to promote an event
 
 # What is this app about ?
 I created this app in order to promote an event which is a fundraising with the help of a concert.
